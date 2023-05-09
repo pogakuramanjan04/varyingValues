@@ -21,7 +21,7 @@ export default function App() {
       <input onChange={e} value={v} />
       <h1>Total salary {v}</h1>
       <input onChange={e1} value={v1} />
-      <h1>inhand salary {v1}</h1>
+      <h1>inhand salary1 {v1}</h1>
     </div>
   );
 }
